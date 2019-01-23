@@ -19,3 +19,4 @@ Name and GitHub username/profile
 * Sage Levin [sagelevin](https://github.com/sagelevin)
 * Madi Crowley [mcrowley208](https://github.com/mcrowley208)
 * Haley Howard [HaleyCHoward](https://github.com/HaleyCHoward)
+* Ian Hawkins [irhawk](https://github.com/irhawk)
